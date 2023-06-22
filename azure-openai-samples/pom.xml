@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.azure.cosmos</groupId>
-    <artifactId>cfp</artifactId>
+    <artifactId>aoai</artifactId>
     <version>1.0</version>
     <name>Azure OpenAI Samples</name>
     <properties>
